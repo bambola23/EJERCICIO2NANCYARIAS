@@ -1,0 +1,30 @@
+p{
+    font-family: Verdana;
+}
+
+u.verde{
+    color:green
+}
+
+b.rojo{
+    color:red
+}
+a.doble{
+    text-decoration-line: overline underline;
+} 
+
+a:hover {
+    background-color: yellow;
+  }
+
+b.grande{
+    font-size: 50px;
+}
+
+b.azul{
+    color: blue;
+}
+
+u.rojo{
+    color: red;
+}
